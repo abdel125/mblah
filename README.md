@@ -1,2 +1,2 @@
 # mblah
-PoW blockchain in golang.
+PoW blockchain in golang
